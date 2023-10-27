@@ -4,6 +4,10 @@
 Welcome to my page!
 I'm Keagan, an aspiring programmer currently in high school in Tennessee, US. I love learning new things and helping others along their paths in software development, and watching open-source projects grow.
 
+**What I do**
+
+I like building larger projects and APIs with Python, but I also really enjoy tinkering with IoT and embedded devices programming with C/C++.
+
 **Languages and tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
