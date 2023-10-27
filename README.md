@@ -1,6 +1,6 @@
 
 
-<h1>Hey! Nice to see you 👋</h1>
+<h1><img/>Hey! Nice to see you 👋</h1>
 
 Welcome to my page!
 I'm Keagan, an aspiring programmer currently in high school in Tennessee, US. I love learning new things and helping others along their paths in software development, and watching open-source projects grow.
