@@ -23,6 +23,11 @@ I like building larger projects and APIs with Python, but I also really enjoy ti
 
 I'm currently working on **[Pypush](https://github.com/beeper/pypush)** and reverse engineering iMessage and other Apple related services. I also enjoy building backend APIs, either for web crawlers (my star project **[here](https://github.com/kasherpete/iGrade-web-scraper)**), or simplifying low level or complicated ones, like **[Twilio](https://github.com/kasherpete/twilio-helper)**.
 
+**Where you can reach me at**
+
+![](https://dcbadge.vercel.app/api/shield/1020394665750560948)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 ![](https://github-readme-stats.vercel.app/api?username=kasherpete&show_icons=true&theme=transparent)
 <!--
 
