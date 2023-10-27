@@ -9,6 +9,8 @@ I'm Keagan, an aspiring programmer currently in high school in Tennessee, US. I 
 
 I like building larger projects and APIs with Python, but I also really enjoy tinkering with IoT and embedded devices programming with C/C++.
 
+Most of my larger projects are not uploaded on GitHub or are labeled as private, but feel free to ask me about anything!
+
 **🛠️ Languages and tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -23,6 +25,10 @@ I like building larger projects and APIs with Python, but I also really enjoy ti
 **🚧 Currently working on**
 
 I'm currently working on **[Pypush](https://github.com/beeper/pypush)** and reverse engineering iMessage and other Apple related services. I also enjoy building backend APIs, either for web crawlers (my star project **[here](https://github.com/kasherpete/iGrade-web-scraper)**), or simplifying low level or complicated ones, like **[Twilio](https://github.com/kasherpete/twilio-helper)**.
+
+**⭐ Favorite project**
+
+My favorite project currently on GitHub is the **[App SMS Service](https://github.com/kasherpete/Official-app-sms-service)**, which enables lots of features through standard sms!
 
 **💬 Where you can reach me at**
 
