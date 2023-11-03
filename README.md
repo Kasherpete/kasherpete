@@ -32,8 +32,8 @@ My favorite project currently on GitHub is the **[App SMS Service](https://githu
 
 **💬 Where you can reach me at**
 
-![](https://dcbadge.vercel.app/api/shield/1020394665750560948)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[<img src="https://dcbadge.vercel.app/api/shield/1020394665750560948" target="_blank">](https://discordapp.com/users/1020394665750560948)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">](mailto:Keagan.a.peterson@outlook.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=kasherpete&show_icons=true&theme=transparent)
 <!--
