@@ -3,7 +3,7 @@
 <h1><img/>Hey! Nice to see you 👋</h1>
 
 Welcome to my page!
-I'm Keagan, an aspiring programmer currently in high school in Tennessee, US. I love learning new things and helping others along their paths in software development, and watching open-source projects grow.
+I'm Keagan, an aspiring programmer currently in high school in Tennessee, US. I love learning new things and helping others along their paths in software development, and watching open-source projects grow. [Check out my new website!!](https://keaganpeterson.dev)
 
 **💪 What I do**
 
